@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-d2f65ff53e80691802d5529910f803141f9d8c2a.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-b72151e8b25f6b14977014fcf28dd4810248303d.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-2c74399fa382610a7b7b58f2ec02d1e598383ddb.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-aebd76fd51deb5ce323bbec4969490c0bc17d9d2.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-4adba80b1b2ba1ab67a8b8df18cff60f20d67394.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-6e7ae2d1b78fa2a03311f60ebedec3b2eef1e1c1.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-4eac500500fd3ba2eef6bf02e98e9f3b5790fd89.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-c1d13c31a5e6104c258ada492529e258456847a6.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/Android/adt-bundle-mac-x86_64-20130514/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-eaccb4a4eece8a97ff25c977b4c7a74e7cf6f9b7.jar" />
+    </item>
+    <item
+        jar="/Users/daiyan/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-22a0a4ebda212d760372d8cd306cba87a7daaf26.jar" />
+    </item>
+
+</items>

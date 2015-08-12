@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.mysimpletweets.TimelineActivity">
+    <item
+        android:id="@+id/twitter_post"
+        android:icon="@drawable/ic_action_name"
+        android:orderInCategory="100"
+        android:title="Post"
+        app:showAsAction="ifRoom" />
+</menu>
+<!-- From: file:/Users/daiyan/AndroidStudioProjects/MySimpleTweets/app/src/main/res/menu/menu_timeline.xml -->
